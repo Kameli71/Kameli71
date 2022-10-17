@@ -61,7 +61,7 @@ If you have some time please check it out or contact me if you have a place for 
 
 <p align="center">
   <br/>
-  <a href="mailto:lunde@adobe.com?subject=Bonjour!">
+  <a href="mailto:karim.kameli71@gmail.com?subject=Bonjour!">
     <img alt="karim.kameli71@gmail.com" height="50px" width="50px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png"/>
   </a>
   <a href="https://portfolio-karim-kameli.netlify.app">
