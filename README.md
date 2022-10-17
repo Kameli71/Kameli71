@@ -67,7 +67,7 @@ If you have some time please check it out or contact me if you have a place for 
   <a href="https://portfolio-karim-kameli.netlify.app">
     <img alt="Mon site web" height="50px" width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLuZpsBVPAe987R_FYTPZb-A9etMFQtIv25PKl1TVMzf1K7eBFQK2b0VNEPMju4hcUq78&usqp=CAU" />
   </a>
-  <a href="https://www.linkedin.com/in/rollet-raphael/">
+  <a href="https://www.linkedin.com/in/karim-kameli-4a7992218/">
     <img alt="Linkedin rollet raphael" width="50px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
   </a>
 </p>
