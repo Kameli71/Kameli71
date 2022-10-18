@@ -9,9 +9,9 @@ I was quickly attracted to web development and I'm afraid of the dark and the vo
 
 ### MIT, Harvard ?
 ```javascript
-const raphael = new Object();
+const karim = new Object();
 function God() {
-  if(raphael.diplomes > 0){
+  if(karim.diplomes > 0){
     return console.log("I'm you'r graduate men !");
   }
  return console.log("Sorry, i can do nothing for you.");
